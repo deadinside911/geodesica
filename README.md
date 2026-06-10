@@ -17,4 +17,8 @@ I have no experience at all in simulating anything (but the [Stardance website](
 
 The goal is to start simple and keep improving.
 
+Currently:
+
+![the torus and the sphere](day_one.png)
+
 This will be hosted pretty soon!
