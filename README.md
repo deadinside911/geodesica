@@ -19,6 +19,6 @@ The goal is to start simple and keep improving.
 
 Currently:
 
-![the torus and the sphere](day_one.png)
+![the torus and the sphere](docs/day_one.png)
 
 This will be hosted pretty soon!
