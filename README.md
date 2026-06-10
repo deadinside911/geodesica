@@ -13,6 +13,8 @@ The physics used for Interstellar was published in two papers:
 1. [Visualising the wormhole](https://arxiv.org/pdf/1502.03809)
 2. [Gravitational lensing in spinning black holes](https://arxiv.org/pdf/1502.03808)
 
-I have no experience at all in simulating anything (but the [Stardance website](https://stardance.hackclub.com/) says no experience needed at all), and the physics is super intimidating, this will probably be very hard, but it will definetly look really cool if I do it somewhat right.
+I have no experience at all in simulating anything (but the [Stardance website](https://stardance.hackclub.com/) says no experience needed at all), and the physics is super intimidating, this will probably be very hard, but it will definitely look really cool if I do it somewhat right.
 
 The goal is to start simple and keep improving.
+
+This will be hosted pretty soon!
