@@ -25,7 +25,7 @@ scene.add(torus);
 
 camera.position.z = 5;
 
-function animate(time: number) {
+function animate() {
     // do something cool later
     renderer.render(scene, camera);
 }

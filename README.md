@@ -22,3 +22,17 @@ Currently:
 ![the torus and the sphere](docs/day_one.png)
 
 This will be hosted pretty soon!
+
+## Run locally (the frontend)
+
+1. Build the development Docker image, from inside the `geodesica-frontend/` directory
+
+    ```zsh
+    docker build -t geodesica:frontend -f ../server/docker/Dockerfile.dev .
+    ```
+
+2. Run the image on your machine:
+
+    ```zsh
+    docker run geodesica:frontend
+    ```
