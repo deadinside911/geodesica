@@ -21,7 +21,6 @@ Currently:
 
 ![the torus and the sphere](docs/day_one.png)
 
-This will be hosted pretty soon!
 
 ## Run locally (the frontend)
 
